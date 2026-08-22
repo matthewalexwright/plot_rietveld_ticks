@@ -2,11 +2,11 @@
 
 Turns TOPAS Rietveld output into a publication-ready figure: observed data, calculated pattern and difference curve, with every phase drawn as its own row of *hkl* tick marks. Runs from the command line, finds the data files itself, and asks for anything you have not supplied.
 
-![Example lab refinement](docs/EXAMPLE_lab_data_2Th.png)
+![Example lab refinement](EXAMPLE_lab_data_2Th.png)
 
 *Generated from `docs/EXAMPLE_lab_data.txt` and its three phase files, at 5 × 3 inches.*
 
-![Example synchrotron refinement](docs/EXAMPLE_synchrotron_data_Q.png)
+![Example synchrotron refinement](EXAMPLE_synchrotron_data_Q.png)
 
 *The same script in Q, from `docs/EXAMPLE_synchrotron_data.txt` at λ = 0.4959 Å.*
 
