@@ -8,9 +8,9 @@ Turns TOPAS Rietveld output into a publication-ready figure: observed data, calc
 
 ![Example synchrotron refinement](EXAMPLE_synchrotron_data_Q.png)
 
-*The same script in Q, from `docs/EXAMPLE_synchrotron_data.txt` at λ = 0.4959 Å.*
+*The same script in Q, from `docs/EXAMPLE_synchrotron_data.txt`.*
 
-**The data in both figures is synthetic — Gaussian peaks on a smooth background with Poisson noise, at invented peak positions. It is included only to demonstrate the plotting and does not correspond to any real material, measurement or research project.**
+**The data in both figures is included only to demonstrate the plotting and does not correspond to any real material, measurement or research project.**
 
 ## Requirements
 
