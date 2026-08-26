@@ -148,3 +148,6 @@ The script detects a notebook, ignores the notebook's own command-line arguments
 Phases are shown as rows of tick marks. Plotting the individual calculated patterns of each phase, stacked or overlaid, is a separate job and not what this script does.
 
 When plotting in Q, check the wavelength prompt rather than pressing Enter through it. The Cu Kα1 default is wrong for synchrotron or Mo data, and an incorrect wavelength silently rescales the whole axis.
+
+## Acknowledgement
+I acknowledge the use of Claude Opus 5 (Anthropic) for assistance with code editing and formatting. All content was reviewed and verified.
