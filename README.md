@@ -5,7 +5,7 @@ Turns TOPAS Rietveld output into a publication-ready figure: observed data, calc
 <img src="EXAMPLE_lab_data_2Th.png" width="400">
 *Generated from `docs/EXAMPLE_lab_data.txt` and its three phase files, at 5 × 3 inches.*
 
-<img src="EEXAMPLE_synchrotron_data_Q.png" width="400">
+<img src="EXAMPLE_synchrotron_data_Q.png" width="400">
 *The same script in Q, from `docs/EXAMPLE_synchrotron_data.txt`.*
 
 **The data in both figures is included only to demonstrate the plotting and does not correspond to any real material, measurement or research project.**
